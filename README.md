@@ -18,6 +18,8 @@ EWN is played on a **5x5 grid**, where each player has **six pieces (numbered 1 
 
 Each turn, a player rolls a **six-sided die**, determining which piece they must move. If the piece has been captured, they can move any remaining piece. Pieces move diagonally toward the opponent's side and can capture opponent pieces by landing on them.
 
+For more information on the game rule, please refer to [this link.](https://en.wikipedia.org/wiki/EinStein_w%C3%BCrfelt_nicht!)
+
 ---
 
 ## **Installation and Compilation**  
